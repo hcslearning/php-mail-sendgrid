@@ -1,0 +1,8 @@
+{
+    "name": "hcs/php-mail-sendgrid",
+    "description": "Probando API Sendgrid",
+    "type": "project",
+    "require": {
+        "sendgrid/sendgrid": "7.5.2"
+    }
+}
